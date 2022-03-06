@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rachelhyeon
-- 🌱 I’m currently learning Python and R.
 
 <!---
 rachelhyeon/rachelhyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
