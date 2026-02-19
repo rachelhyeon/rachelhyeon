@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rachelhyeon
+👋 Hi, nice to meet you.
 
 My areas of expertise are building interactive dashboards that display insights in data, engineering end-to-end data pipelines and improving machine learning models through feature engineering and hyperparameter tuning. I enjoy experimenting with different software to improve existing workflows and finding ways to make complex processes simpler.
 
